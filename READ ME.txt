@@ -1,0 +1,4 @@
+I used json-simple-1.1.1 while doing my project. It is included in the project, but I still add it as an attachment. 
+Also I did my project in IntelliJ. My "jar" is in: CarSolutions3 --> out --> artifacts
+Kind regards.
+Buğra TUTUMLU
